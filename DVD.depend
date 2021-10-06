@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1612104852 source:c:\users\tomekworkstation\downloads\dvd\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<winbase.h>
+	"customer.h"
+	"film.h"
+	"wyporzycz.h"
+	"time.h"
+
+1611926222 c:\users\tomekworkstation\downloads\dvd\customer.h
+	<string>
+	<vector>
+	<fstream>
+	<iterator>
+	<sstream>
+	<stdexcept>
+
+1611847868 c:\users\tomekworkstation\downloads\dvd\film.h
+	<string>
+	<vector>
+	<fstream>
+	<iterator>
+	<sstream>
+	<stdexcept>
+	<iostream>
+
+1611929775 c:\users\tomekworkstation\downloads\dvd\wyporzycz.h
+	<string>
+	<vector>
+	<fstream>
+	<iterator>
+	<sstream>
+	<stdexcept>
+	<cstdlib>
+	<limits>
+	<windows.h>
+	<winbase.h>
+	"time.h"
+	"customer.h"
+
+1611928272 c:\users\tomekworkstation\downloads\dvd\time.h
+
